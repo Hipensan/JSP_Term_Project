@@ -17,7 +17,7 @@
 
 <h3>Project configuration</h3>
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 <h3>Libs</h3>
 
