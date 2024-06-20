@@ -33,4 +33,23 @@ For DB
 
 <br>
 
+<h3>실행 결과</h3>
+
+* 메인 화면 
+![alt text](image-1.png)
+
+* 회원 가입
+![alt text](image-2.png)
+
+* 로그인
+![alt text](image-3.png)
+
+* 레시피 찾기
+![alt text](image-4.png)
+
+* 레시피 쓰기
+![alt text](image-5.png)
+
+* 레시피 상세 화면
+![alt text](image-6.png)
 
