@@ -37,25 +37,25 @@ For DB
 
 <h4>메인 화면</h4> 
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 <h4>회원 가입</h4>
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 <h4>로그인</h4>
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 <h4>레시피 찾기</h4>
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
 <h4>레시피 쓰기</h4>
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 <h4>레시피 상세 화면</h4>
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
